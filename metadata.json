@@ -1,0 +1,8 @@
+{
+  "name": "Smart Agriculture Database System",
+  "description": "Comprehensive agricultural DBMS platform for crop management, disease monitoring, farming activities, resource tracking, and relational analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
